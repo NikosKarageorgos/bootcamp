@@ -1,0 +1,6 @@
+C:\Users\george\source\repos\SwitchCaseInitial\SwitchCaseInitial\bin\Debug\SwitchCaseInitial.exe.config
+C:\Users\george\source\repos\SwitchCaseInitial\SwitchCaseInitial\bin\Debug\SwitchCaseInitial.exe
+C:\Users\george\source\repos\SwitchCaseInitial\SwitchCaseInitial\bin\Debug\SwitchCaseInitial.pdb
+C:\Users\george\source\repos\SwitchCaseInitial\SwitchCaseInitial\obj\Debug\SwitchCaseInitial.csprojAssemblyReference.cache
+C:\Users\george\source\repos\SwitchCaseInitial\SwitchCaseInitial\obj\Debug\SwitchCaseInitial.exe
+C:\Users\george\source\repos\SwitchCaseInitial\SwitchCaseInitial\obj\Debug\SwitchCaseInitial.pdb
